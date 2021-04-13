@@ -2,7 +2,9 @@
 
 html {
     color: #222;
-    font-size: 1em;
+    font-size: 2em;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
     line-height: 1.4;
 }
 
